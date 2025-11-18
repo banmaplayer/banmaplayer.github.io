@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://banmaplayer.github.io/sitemap.xml
